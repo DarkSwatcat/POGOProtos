@@ -9,3 +9,5 @@ tmp/
 
 # Backup files
 *~
+
+.DS_Store
